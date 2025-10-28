@@ -7,6 +7,6 @@ import { PodcastSectionComponent } from './podcast-section.component';
   selector: 'app-root',
   imports: [RouterOutlet, HeroSectionComponent, PodcastSectionComponent],
   templateUrl: './app.html',
-  styleUrl: './app.css'
+  styleUrl: './app.css',
 })
 export class App {}
